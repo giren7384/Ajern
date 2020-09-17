@@ -1,4 +1,4 @@
 # Ajern
-Basic Powercord theme. 
+Basic Powercord theme.
 
-https://ibb.co/pZNbVYq
+![Image of Ajern](https://i.ibb.co/MpKZwFd/Screenshot-2.png)
