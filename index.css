@@ -2,8 +2,6 @@
 
 /* Guild icon blur */
 
-
-/*
 .none-2Eo-qx > div[data-ref-id="guildsnav"] .listItem-2P_4kh {
   filter: blur(3px)
 }
@@ -12,8 +10,6 @@
   filter: blur(0);
   transition: filter .5s
 }
-*/
-
 
 /* Blured Email */
 
