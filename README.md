@@ -3,7 +3,7 @@
 ## Built With
 
 * [CSS](https://www.w3schools.com/css/) - Coding language used
-* [BetterDiscord](https://www.betterdiscord.net/) - Client mod used
+* [Powercord](https://powercord.dev/) - Client mod used
 
 ## Authors
 
