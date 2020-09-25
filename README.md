@@ -8,6 +8,7 @@
 ## Authors
 
 * **Creation's** - *ALL*
+* **botatooo** - *Fixed Some Things lol*
 
 ## License
 
