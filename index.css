@@ -8,8 +8,8 @@
 .toolbar-1t6TWx>.clickable-3rdHwn:last-of-type,
 .tutorialContainer-SGrQ1h~.listItem-2P_4kh,
 [href="/store"],
-[id=channel-context-hide-voice-names],
-[id=channel-context-invite-people],
+#channel-context-hide-voice-names,
+#channel-context-invite-people,
 .anchor-3Z-8Bb[href="https\:\/\/support\.discord\.com"] {
 	display: none
 }
@@ -344,11 +344,11 @@
 	width: 240px
 }
 
-[id=status-picker-custom-status],
-[id=status-picker-dnd],
-[id=status-picker-idle],
-[id=status-picker-invisible],
-[id=status-picker-online] {
+#status-picker-custom-status,
+#status-picker-dnd,
+#status-picker-idle,
+#status-picker-invisible,
+#status-picker-online {
 	border-radius: 30px
 }
 
