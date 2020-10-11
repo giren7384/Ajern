@@ -455,23 +455,6 @@
     --epictxtcolor: white;
 }
 
-
-.button-14-BFJ:nth-child(3):hover {
-    animation: rotate 1s infinite;
-    -webkit-transition-delay: now;
-    -webkit-animation-timing-function: linear;
-    background-color: transparent;
-    
-}
-@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}
-
 .headerTop-3C2Zn0 {
     min-height: 250px;
     padding: 0;
@@ -572,14 +555,14 @@
 
 /* Guild icon blur */
 
-.none-2Eo-qx > div[data-ref-id="guildsnav"] .listItem-2P_4kh {
+/*.none-2Eo-qx > div[data-ref-id="guildsnav"] .listItem-2P_4kh {
   filter: blur(3px)
 }
 
 .none-2Eo-qx > div[data-ref-id="guildsnav"] .listItem-2P_4kh:hover {
   filter: blur(0);
   transition: filter .5s
-}
+}*/
 
 /* Blured Email */
 
