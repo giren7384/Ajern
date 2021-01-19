@@ -6,7 +6,7 @@
 * [Powercord](https://powercord.dev/) - Client mod used
 
 ## Authors
-
+* **gabe** -*New maintainer*
 * **Creation's** - *ALL*
 * **botatooo** - *Fixed Some Things lol*
 
