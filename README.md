@@ -1,9 +1,6 @@
 # Ajern
 
-## Built With
-
-* [CSS](https://www.w3schools.com/css/) - Coding language used
-* [Powercord](https://powercord.dev/) - Client mod used
+**Light theme is coming**
 
 ## Authors
 * **gabe** -*New maintainer*
