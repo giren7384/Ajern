@@ -23,11 +23,8 @@ CD powercord/src/Powercord/themes
 Then
 
 ```
-git clone https://github.com/Creationsss/Ajern
+git clone https://github.com/gabe7384/Ajern
 ```
 ### Images Of Theme
 
 ![Image of Ajern](https://i.imgur.com/JFYTZn7.png)
-
-### Usefull Links
-[![Discord Server](https://discordapp.com/api/guilds/767528242465996840/widget.png?style=banner2)](https://discord.gg/kZkExZC)
