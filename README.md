@@ -1,6 +1,6 @@
 # Ajern
 
-**Light theme is coming**
+**Light theme is coming to a powercord near you in 2029**
 
 ## Authors
 * **gabe** -*New maintainer*
