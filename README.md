@@ -22,6 +22,3 @@ Then
 ```
 git clone https://github.com/gabe7384/Ajern
 ```
-### Images Of Theme
-
-![Image of Ajern](https://i.imgur.com/JFYTZn7.png)
