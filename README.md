@@ -3,7 +3,8 @@
 **Updating**
 
 **Screenshot** 
-{preview}[https://media.discordapp.net/attachments/819811164283207720/933169700886704158/unknown.png?width=1244&height=670]
+
+![preview](https://media.discordapp.net/attachments/819811164283207720/933169700886704158/unknown.png?width=1244&height=670)
 ## Authors
 * **gabe** -*New maintainer*
 * **Creation's** - *ALL*
