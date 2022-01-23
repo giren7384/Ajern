@@ -338,12 +338,12 @@
 	box-shadow: 0 2px 10px rgba(0, 0, 0, .5);
 	animation: fadeIn 2s ease;
 	border-radius: 7px;
-	transform: rotate(-90deg);
+	transform: rotate(360deg);
 	position: fixed;
-	left: -103px;
-	bottom: 80px;
-	height: 45px;
-	width: 240px
+	left: 55px;
+	bottom: 100px;
+	height: 200px;
+	width: 340px
 }
 
 #status-picker-custom-status,
